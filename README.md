@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/felipefayal/felipefayal/bannergithub.png" alt="Banner Personalizado" />  
-  
+<img src="bannergithub.png" alt="Banner Personalizado" />  
   <h3>"Root Coder | Back-end Architect. Building robust foundations, one line at a time."</h3>
 
   <p align="center">
