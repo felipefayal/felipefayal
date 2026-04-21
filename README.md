@@ -42,7 +42,7 @@ Olá! Sou o **Felipe Fayal**, estudante de Tecnologia na **Faculdade Faci Wyden*
 ### Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefayal&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefayal&layout=compact&langs_count=7&count_private=true&theme=dark" />
 </div>
 
 ---
