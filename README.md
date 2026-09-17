@@ -13,7 +13,7 @@
 
 ### Sobre Mim
 
-Olá! Sou o **Felipe Fayal**, estudante de Tecnologia na **Faculdade Faci Wyden** em Belém. Sou apaixonado por arquitetura de software e infraestrutura, focando no desenvolvimento de soluções que resolvam problemas reais de forma escalável.
+Sou graduado em Ciência da Computação pela Faculdade Faci Wyden, em Belém. Tenho interesse em desenvolvimento de software e cibersegurança e gosto de aprender novas tecnologias na prática. Tenho experiência com PHP/Laravel, Python, React e bancos de dados relacionais.
 
 -  **Acadêmico:** Atualmente cursando faculdade e expandindo horizontes técnicos.
 -  **Impacto Social:** Technical Development Lead na **Enactus Faci Wyden**, liderando o projeto *DescarteAqui*.
